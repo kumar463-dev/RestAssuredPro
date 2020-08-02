@@ -1,0 +1,20 @@
+1. Check the Automation page load successfully.
+2. Condition page load correctly with proper data in dropdowns
+2. Condition: User able to add single condition and proceed
+3. Condition: user able to add multiple conditions
+4. Action: User able to create unique actions
+5. Action: User able to see all the user in shared mailbox in dropdown
+6. Preview: All the details provided display correctly
+7. "Previous", "Next" & "Save" CTAs are functional
+8. Automation Name: Accepting all alphanumbric & special character
+9. Back button on top work perfectly
+10. Post Automation Creation: user able to view preview on click
+11. Post Automation Creation: User have option to edit automation
+12. Post Automation Creation: User have option to delete automation created
+13. Edit icon works correctly
+14. Delete icon works correctly
+15. User able to create multiple Automation using "Add Automation"
+16. new Automation: validation for min character getting displayed.
+16. New Automation: user NOt able to proceed with empty "Automation Name"
+17. User not able to proceed from "Condition" to "Action" with empty condition field (Note: No Validation message)
+18. User Not able to proceed to Preview page with empty Action dropdown
